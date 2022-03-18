@@ -1,0 +1,21 @@
+.mt-10 {
+    margin-top: 10px;
+}
+
+button {
+    border-radius: 3px;
+}
+.form-conversation {
+    border: 1px solid #a7a2a2;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 10px 10px #ccc;
+    transition: 0.5s;
+}
+.hidden {
+    opacity: 0;
+}
+.visible {
+    opacity: 1;
+}
